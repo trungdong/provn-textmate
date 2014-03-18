@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>wasInvalidatedBy($1, -$2, -$3)</string>
+	<key>name</key>
+	<string>wasInvalidatedBy</string>
+	<key>scope</key>
+	<string>source.provn</string>
+	<key>tabTrigger</key>
+	<string>wi</string>
+	<key>uuid</key>
+	<string>E3E59D5D-18C3-4C59-9605-5DE8C4B4B424</string>
+</dict>
+</plist>

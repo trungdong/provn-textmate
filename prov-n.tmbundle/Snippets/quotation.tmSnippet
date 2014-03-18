@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>wasDerivedFrom($1, $2, -, -, -, [prov:type='prov:Quotation'])</string>
+	<key>name</key>
+	<string>quotation</string>
+	<key>scope</key>
+	<string>source.provn</string>
+	<key>tabTrigger</key>
+	<string>qu</string>
+	<key>uuid</key>
+	<string>0A594474-7F2D-4CB7-86AF-83B181EF6BE5</string>
+</dict>
+</plist>
