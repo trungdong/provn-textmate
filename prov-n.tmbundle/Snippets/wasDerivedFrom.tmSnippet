@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>wasDerivedFrom</string>
 	<key>scope</key>
-	<string>provn</string>
+	<string>source.provn</string>
 	<key>tabTrigger</key>
 	<string>wd</string>
 	<key>uuid</key>
